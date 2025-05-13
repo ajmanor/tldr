@@ -3,6 +3,8 @@
 > Command-line interface for managing versions of different packages.
 > More information: <https://asdf-vm.com/manage/commands.html>.
 
+- TEST
+
 - List all available plugins:
 
 `asdf plugin list all`
